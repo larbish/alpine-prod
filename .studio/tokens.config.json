@@ -1,0 +1,11 @@
+{
+  "alpine": {
+    "body": {
+      "color": {
+        "value": {
+          "dark": "red"
+        }
+      }
+    }
+  }
+}
